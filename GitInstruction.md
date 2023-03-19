@@ -1,6 +1,9 @@
 # Инструкция по работе с git
+![logoGit](Git-logo.png)
+![humor-minute](git-talk.png)
 
 ## Что это и для чего нужна система контроля версий?
+Git is a DevOps tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
 
 **Системы контроля версий** — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее.
 
