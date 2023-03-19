@@ -48,3 +48,4 @@
 
 # Apache Subversion (SVN)
 
+# Для того чтобы сделать Fork. Нужно зарегится на GitHub.
