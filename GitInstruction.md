@@ -41,6 +41,7 @@
 ### Инструкция по созданию pull request
 
 ## Книги и полезные ссылки по изучению git.
+[learngitbranching](https://learngitbranching.js.org/)
 
 ## Альтернативные системы контроля версий.
 
